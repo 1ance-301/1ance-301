@@ -16,4 +16,4 @@ Technologies that I know:
 - MVC
 
 Links:
-- LinkedIN()
+- LinkedIN: https://www.linkedin.com/in/lance-bontrager-919242218/
