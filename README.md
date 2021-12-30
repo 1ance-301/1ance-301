@@ -13,7 +13,7 @@ Technologies that I know:
 - ORM
 - MySQL
 - Sequelize
-- MVC
+- MongoDB
 
 Links:
 - LinkedIN: https://www.linkedin.com/in/lance-bontrager-919242218/
