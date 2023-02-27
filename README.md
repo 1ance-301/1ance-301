@@ -2,10 +2,9 @@ Hello World 👋🏼
 
 📍 Middlebury, IN
 
-👨🏼‍🎓 I am currently a bootcamp student at Butler University.
+👨🏼‍🎓 I have graduated Butler University Bootcamp. I am looking for employment, and currently doing freelance work.
 
 Technologies that I know:
-- HTML
 - CSS
 - JavaScript
 - Node
@@ -14,6 +13,7 @@ Technologies that I know:
 - MySQL
 - Sequelize
 - MongoDB
+- Shopify
 
 Links:
 - LinkedIN: https://www.linkedin.com/in/lance-bontrager-919242218/
