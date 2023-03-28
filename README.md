@@ -2,7 +2,7 @@ Hello World 👋🏼
 
 📍 Middlebury, IN
 
-👨🏼‍🎓 I have graduated Butler University Bootcamp. I am looking for employment, and currently doing freelance work.
+👨🏼‍🎓 I am currently doing freelance work specilizing in Shopify development. I am open to employment to further my knowledge of coding and take it to the next level. I am a taking a online course at Freemote.
 
 Technologies that I know:
 - CSS
