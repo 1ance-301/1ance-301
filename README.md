@@ -16,4 +16,4 @@ Technologies that I know:
 - Shopify
 
 Links:
-- LinkedIN: https://www.linkedin.com/in/lance-bontrager-919242218/
+- LinkedIN: https://www.linkedin.com/in/lance-bontrager-tdw/
